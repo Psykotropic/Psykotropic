@@ -54,7 +54,7 @@
 
 ## Estatísticas do GitHub
 
-<table align="center"> <tr> <td align="center"> <img alt="Estatísticas" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eddie-lima&theme=github_dark" /> </td> <td align="center"> <img alt="Linguagens por repositório" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eddie-lima&theme=github_dark" /> </td> <td align="center"> <img alt="Linguagens por commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eddie-lima&theme=github_dark" /> </td> </tr> </table> <p align="center"> <img alt="Resumo do perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eddie-lima&theme=github_dark" /> </p>
+<table align="center"> <tr> <td align="center"> <img alt="Estatísticas" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Psykotropic&theme=github_dark" /> </td> <td align="center"> <img alt="Linguagens por repositório" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Psykotropic&theme=github_dark" /> </td> <td align="center"> <img alt="Linguagens por commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Psykotropic&theme=github_dark" /> </td> </tr> </table> <p align="center"> <img alt="Resumo do perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Psykotropic&theme=github_dark" /> </p>
 
 ---
 
@@ -67,7 +67,7 @@
   <a href="mailto:seuemail@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://github.com/Eddie-lima">
+  <a href="https://github.com/Psykotropic">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
